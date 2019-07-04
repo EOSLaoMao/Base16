@@ -1,14 +1,29 @@
-# Bases
+# Base16
 
-[![Build Status](https://travis-ci.com/mattrubin/Bases.svg?branch=develop)](https://travis-ci.com/mattrubin/Bases)
-[![Code Coverage](https://img.shields.io/codecov/c/github/mattrubin/Bases/develop.svg)](https://codecov.io/gh/mattrubin/Bases)
-![Swift 5.0](https://img.shields.io/badge/swift-5.0-orange.svg)
-![Available via Carthage and SPM](https://img.shields.io/badge/via-Carthage%20%7C%20SPM-MediumSlateBlue.svg)
-![Platforms: iOS, macOS, tvOS, watchOS, Linux](https://img.shields.io/badge/platforms-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS%20%7C%20Linux-blue.svg)
-[![MIT License](https://img.shields.io/badge/license-MIT-lightgray.svg)](LICENSE.md)
+[![CI Status](https://img.shields.io/travis/iCell/Base16.svg?style=flat)](https://travis-ci.org/iCell/Base16)
+[![Version](https://img.shields.io/cocoapods/v/Base16.svg?style=flat)](https://cocoapods.org/pods/Base16)
+[![License](https://img.shields.io/cocoapods/l/Base16.svg?style=flat)](https://cocoapods.org/pods/Base16)
+[![Platform](https://img.shields.io/cocoapods/p/Base16.svg?style=flat)](https://cocoapods.org/pods/Base16)
 
-Bases is a collection of small Swift libraries for Base16, Base32, and (eventually) Base64 encoding/decoding, as standardized in [RFC 4648](https://tools.ietf.org/html/rfc4648).
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+Base16 is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'Base16'
+```
+
+## Author
+
+iCell, icell.vip@gmail.com
 
 ## License
 
-Bases is released under the [MIT License](LICENSE.md).
+Base16 is available under the MIT license. See the LICENSE file for more info.

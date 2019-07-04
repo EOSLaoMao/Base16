@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Base16_Example' do
+  pod 'Base16', :path => '../'
+
+  target 'Base16_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
